@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="java-2022-12/eclipse/configuration/org.eclipse.osgi/177/data/-998794022/content.jar"/>
+	<classpathentry kind="lib" path="java-2022-12/eclipse/configuration/org.eclipse.osgi/185/data/listener_1925729951/artifacts.jar"/>
+	<classpathentry kind="lib" path="java-2022-12/eclipse/configuration/org.eclipse.osgi/185/data/listener_1925729951/content.jar"/>
+	<classpathentry kind="lib" path="java-2022-12/eclipse/configuration/org.eclipse.osgi/227/0/.cp/lib/launchingsupport.jar"/>
+	<classpathentry kind="lib" path="java-2022-12/eclipse/configuration/org.eclipse.osgi/399/0/.cp/jacocoagent.jar"/>
+	<classpathentry kind="lib" path="java-2022-12/eclipse/plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
